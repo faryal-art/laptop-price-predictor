@@ -12,7 +12,7 @@ An end-to-end Machine Learning web application that predicts laptop prices based
 ## 🌐 Live Demo
 
 > Run locally using the steps below
-
+[🚀 Click here to try the live demo](https://laptop-price-predictor-m2g9cv8sa2lzr4kyfvfpbr.streamlit.app/)
 ---
 
 ## 📸 Preview
